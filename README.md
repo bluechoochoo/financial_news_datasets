@@ -11,3 +11,6 @@ TBD:
 Add segment length, segment URL.
 
 Goal is to have raw data for every network financial news program.
+
+I'm just writing these words so searchers will know they're in the right place:
+CNBC, Bloomberg, Fox Business, Yahoo! Finance.
