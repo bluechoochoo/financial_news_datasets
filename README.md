@@ -9,7 +9,7 @@ Initial commits are sparse.
 
 files are csv.
 
-Surrent versions containt segment title, date, segment description.
+Current versions containt segment title, date, segment description.
 
 TBD:
 
