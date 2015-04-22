@@ -5,7 +5,7 @@ TV network datasets for analysing, mostly social share stuff.
 
 files are csv.
 
-Current versions containt segment title, date, segment description.
+Current versions contain segment title, date, segment description.
 
 TBD:
 
