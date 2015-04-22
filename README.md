@@ -1,6 +1,6 @@
 # financial_news_datasets
 
-TV network datasets, pre-analysis, mostly social share stuff.
+TV network datasets, pre-analysis, mostly for future social share stuff.
 
 files are csv.
 
