@@ -11,4 +11,4 @@ TBD:
 
 Add segment length, segment URL.
 
-Goal is to have raw data for every network financial news programs.
+Goal is to have raw data for every network financial news program.
