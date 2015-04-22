@@ -1,5 +1,4 @@
 # financial_news_datasets
-datasets related to MSM financial news
 
 TV network datasets for analysing, mostly social share stuff.
 
